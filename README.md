@@ -13,7 +13,7 @@ En possession d'un BTS SIO option SLAM réalisée à Valence, j'ai décidé de p
 <h2>Me contacter 📫 </h2>
 
 <p>
-  Mail : guay.alexis7@gmail.com
+  Mail : <a href="mailto:guay.alexis7@gmail.com">guay.alexis7@gmail.com</a>
 </p>
 <p>
   Portfolio : <a href="https://ag7-alexis.github.io/">https://ag7-alexis.github.io/</a>
