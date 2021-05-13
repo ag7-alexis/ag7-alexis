@@ -1,13 +1,11 @@
 <h1>Bonjour 👋</h1>
 
 <p>
-Je m'appelle Alexis, je suis un jeune développeur de 20 ans. Passionné par le monde du numérique, de nature autodidacte, je prends plaisir à développer mes compétences en matière de développement informatique.
+Je m'appelle Alexis, je suis un jeune développeur de 21 ans.
 </p>
+
 <p>
-Au travers des différents projets sur lesquelles j'ai été amené à travailler, j'ai pu monter en compétences que se soit au niveau Back-End et Front-End. Les principales technologies que j'ai été amené à utiliser sont le Java (Spring), Angular ainsi que PHP (Wordpress) et un peu de Javascript.
-</p>
-<p>
-En possession d'un BTS SIO option SLAM réalisée à Valence, j'ai décidé de poursuivre mes études en Licence professionnel MIW à Gap.
+Autodidacte et créatif, j'aime donner vie à mes projets et par la même occasion développer mes compétences. Attiré par le monde du web, le métier de développeur est pour moi une réelle passion.
 </p>
 
 <h2>Me contacter 📫 </h2>
