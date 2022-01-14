@@ -14,9 +14,6 @@ Autodidacte et créatif, j'aime donner vie à mes projets et par la même occasi
   Mail : <a href="mailto:guay.alexis7@gmail.com">guay.alexis7@gmail.com</a>
 </p>
 <p>
-  Portfolio : <a href="https://ag7-alexis.github.io/">https://ag7-alexis.github.io/</a>
-</p>
-<p>
   Linkedin : <a href="https://www.linkedin.com/in/guayalexis/">@guayalexis</a>
 </p>
 
