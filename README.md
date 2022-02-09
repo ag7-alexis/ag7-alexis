@@ -1,7 +1,7 @@
 <h1>Bonjour 👋</h1>
 
 <p>
-Je m'appelle Alexis, je suis un jeune développeur de 21 ans.
+Je m'appelle Alexis, je suis un jeune développeur de 22 ans.
 </p>
 
 <p>
