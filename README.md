@@ -11,6 +11,10 @@ Autodidacte et créatif, j'aime donner vie à mes projets et par la même occasi
 <h2>Me contacter 📫 </h2>
 
 <p>
+  Portfolio : <a href="https://www.alexis-guay.fr/">alexis-guay.fr</a>
+</p>
+
+<p>
   Mail : <a href="mailto:guay.alexis7@gmail.com">guay.alexis7@gmail.com</a>
 </p>
 <p>
